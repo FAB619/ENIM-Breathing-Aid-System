@@ -11,9 +11,9 @@ layout: page
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEMpHAH33gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# What?s
+# What?
 <hr />
-Breathing Aud System is a Continuous Positive Airway Pressure (CPAP) device.
+Breathing Aid System is a Continuous Positive Airway Pressure (CPAP) device.
 
 
 
@@ -32,7 +32,7 @@ A group of proffessors of ENIM was in charge of design and manufacturing a breat
 <img src="/ENIM-Breathing-Aid-System/assets/Media/1.jpg">
 
 
-The challenge was to designe an autonomous system with edge means and available equipments in such a critical period of unavailability of many essential components for electromechanical and pneumatic system manufacturing.
+The challenge was to design an autonomous system with edge means and available equipments in such a critical period of unavailability of many essential components for electromechanical and pneumatic system manufacturing.
 
 
 <img src="/ENIM-Breathing-Aid-System/assets/Media/2.jpg">
